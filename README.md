@@ -28,9 +28,6 @@
 - Categorizing performance using `if`, `elif`, and `else`
 - Displaying a suitable message for the score category
 
-## Performance Categories
-The program classifies a score from **0 to 10** as follows:
-
 
 ## Skills Practiced
 - Python fundamentals
